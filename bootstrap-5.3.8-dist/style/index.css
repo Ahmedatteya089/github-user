@@ -1,0 +1,28 @@
+* {
+  margin: 0em;
+  padding: 0em;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.main {
+  margin: auto;
+  height: 80vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 2em;
+}
+.main .left {
+  width: 40%;
+  flex-basis: 40%;
+}
+.main .left h1 {
+  color: #1877f2;
+  font-size: 3.8em;
+  margin-bottom: 0.3em;
+  font-weight: bold;
+}
+.main .left p {
+  color: #6e6d6d;
+  font-size: 1.7rem;
+}

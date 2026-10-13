@@ -1,0 +1,12 @@
+* {
+  padding: 0%;
+  margin: 0;
+}
+.bg-light {
+  background-color: blanchedalmond !important;
+}
+.bg-light .rounded-circle {
+  width: 4rem !important;
+  height: 4rem !important;
+  margin-bottom: 0.5em;
+}
